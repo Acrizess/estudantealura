@@ -4,4 +4,5 @@ Meu nome é Gael Santos
 Estou estudando na alura
 Estou me desenvolvendo na javascript
 Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
-![](https://tenor.com/pt-BR/view/bluepen-gif-17870284396467261529)
+![image](https://github.com/Acrizess/estudantealura/assets/169044078/c3edf560-ef04-422c-a668-70a9009e264e)
+
